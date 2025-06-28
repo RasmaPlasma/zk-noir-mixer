@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+npm-debug.log*
+
+# TypeScript build outputs
+dist/
+*.tsbuildinfo
+
+# Noir build outputs
+target/
+proofs/
+
+# Environment files
+.env
+.env.local
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
